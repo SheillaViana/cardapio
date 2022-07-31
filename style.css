@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: darkgoldenrod; font-size: 60px;
+    text-align: center;
+    font-style: italic;
+}
+h2 {
+    color: darkgoldenrod; font-size: 40px;
+    text-align: center;
+}
+h3 {
+    color: snow; font-size: 25px;
+    font-style: bold;
+}
+div {
+    color: snow; font-size: 30px;
+    text-align: center;
+}
+p {
+    color: snow; font-size: 18px;
+}
+img {
+    float: left;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+footer {
+    color: snow; font-size: 15px;
+}
